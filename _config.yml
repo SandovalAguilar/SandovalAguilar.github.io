@@ -1,3 +1,8 @@
 theme: jekyll-theme-minimal
-title: Sandoval
-description: Portfolio 
+title: Ismael Sandoval
+description: Computer science student at UANL, and aspiring data scientist.
+I have a huge interest in applied mathematics (optimization, statistics, probability, etc.), 
+programming (Python, R, SQL) and data science; basically, everything that allows me to 
+model and have a better understanding of the events around me.
+logo:https://www.linkedin.com/in/ismael-sandoval/?locale=en_US
+show_downloads: false
