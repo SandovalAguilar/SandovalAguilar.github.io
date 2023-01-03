@@ -1,4 +1,5 @@
-# Optimización de Tiro Parabólico <img src="fcfm.png" style="width: 80px;" style="float: right;"  align="right"  margin-right= "50px"/>
+# Optimización de tiro parabólico 
+
 *Sobre la busqueda de ángulos optimos para un proyectil bidimensional*
 
 A2021 016 Física Básica
@@ -15,7 +16,7 @@ Grupo 016
 
 Desde la antigüedad, el estudio de la naturaleza del movimiento ha sido de gran interés para los pensadores y científicos; ya sea por motivos prácticos, como la construcción de edificaciones, o motivos meramente académicos, profundamente alimentados por la curiosidad intelectual. Pues bien, este último caso alimenta nuestra necesidad por resolver la cuestión siguiente: dadas las condiciones iniciales de un proyectil en dos dimensiones, encontrar, mediante métodos matemáticos, el ángulo en el que este alcanza su distancia horizontal máxima. Es decir: optimizar el tiro parabólico. 
 
-**Conociendo las ecuaciones que modelan el tiro parabólico, es posible derivar una expresión matemática en donde el proyectil alcance su distancia horizontal máxima**. Sin embargo, dada la naturaleza empírica de este fenómeno, es necesario comprobar experimentalmente si dicho planteamiento matemático refleja totalmente lo que ocurre en la realidad; es decir, si la predicción concuerda. Para ello, plantearemos dicha ecuación y, a través de métodos numéricos desarrollados en Python, realizaremos una simulación del proyectil en la que se comprobará, *por fuerza bruta*, qué ángulo es el más óptimo. 
+Conociendo las ecuaciones que modelan el tiro parabólico, es posible derivar una expresión matemática en donde el proyectil alcance su distancia horizontal máxima. Sin embargo, dada la naturaleza empírica de este fenómeno, es necesario comprobar experimentalmente si dicho planteamiento matemático refleja totalmente lo que ocurre en la realidad; es decir, si la predicción concuerda. Para ello, plantearemos dicha ecuación y, a través de métodos numéricos desarrollados en Python, realizaremos una simulación del proyectil en la que se comprobará, _por fuerza bruta_, qué ángulo es el más óptimo. 
 
 
 
