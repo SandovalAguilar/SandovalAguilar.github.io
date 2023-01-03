@@ -103,7 +103,7 @@ $$\therefore \theta=45^\circ$$
 
 Dado que, de acuerdo al razonamiento anterior, cuando $\theta=45^\circ$ se alcanza el mayor alcance posible con una velocidad fija. Por lo tanto, la gráfica esperada es:
 
-![grafica_esperada](grafica2.png)
+![grafica_esperada](images/grafica2.png)
 
 
 Nota: para este gráfico se utilizó una velocidad incial arbitraria: $v_0=38.5m/s$
@@ -307,7 +307,7 @@ df.plot('Ángulo', 'Alcance', kind='scatter')
 
 
     
-![png](output_55_1.png)
+![png](images/output_55_1.png)
     
 
 
@@ -338,7 +338,7 @@ plt.show()
 
 
     
-![png](output_56_0.png)
+![png](images/output_56_0.png)
     
 
 
