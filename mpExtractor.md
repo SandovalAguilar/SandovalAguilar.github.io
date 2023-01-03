@@ -1,6 +1,8 @@
 # mpExtractor
 
-[mpExtractor](https://github.com/SandovalAguilar/mpExtractor) es un conjunto de scripts, escritos en python, que permiten obtener las calificaciones de maestros del sitio web "MisProfesores.com" en un dataframe o archivo csv.
+[Ver proyecto en GitHub](https://github.com/SandovalAguilar/mpExtractor)
+
+"mpExtractor" es un conjunto de scripts, escritos en python, que permiten obtener las calificaciones de maestros del sitio web "MisProfesores.com" en un dataframe o archivo csv.
 
 ## Instalación
 
