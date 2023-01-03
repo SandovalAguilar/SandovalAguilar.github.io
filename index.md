@@ -18,7 +18,7 @@ I’m currently working on getting certified in these areas, as well as building
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Optimización de tiro parabólico](/pdf/sample_presentation.pdf)
+[Optimización de tiro parabólico](/OTP)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
