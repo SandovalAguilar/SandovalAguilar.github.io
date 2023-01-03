@@ -12,7 +12,7 @@ I’m currently working on getting certified in these areas, as well as building
 
 ---
 
-### Personal projects in spanish
+### Projects in spanish
 
 [mpExtractor](/mpExtractor)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -23,7 +23,7 @@ I’m currently working on getting certified in these areas, as well as building
 
 ---
 
-### Personal projects in english
+### Projects in english
 
 - [Project 1 Title](http://example.com/)
 
