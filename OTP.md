@@ -10,7 +10,6 @@ Ismael Sandoval Aguilar
 
 19 de noviembre de 2021 
 
-Grupo 016 
 
 ### **Introducción**
 
@@ -64,7 +63,7 @@ Mientras que:
 Por último:
 >Las variables de control son la velocidad inicial $v_0$, la aceleración estándar debida a la gravedad $g$ y nuestra simulación.
 
-Entonces, con ello determinaremos **si es posible determinar matemáticamente el ángulo óptimo de un proyectil para alcanzar la el mayor alcance posible.**
+Entonces, con ello determinaremos si es posible determinar matemáticamente el ángulo óptimo de un proyectil para alcanzar la el mayor alcance posible.
 
 
 
@@ -394,7 +393,7 @@ Por lo tanto, nuestra hipótesis inicial
 
 $$x'_{max}=\frac{2v^{2}_{0}}{g}(-sen^2 \theta + cos^2 \theta) \hspace{5mm} \rightarrow \hspace{5mm} \theta=45^\circ$$
 
-Es correcta para todo ángulo $\theta$; **es posible derivar una expresión matemática en donde el proyectil alcance su distancia horizontal máxima**.
+Es correcta para todo ángulo $\theta$; es posible derivar una expresión matemática en donde el proyectil alcance su distancia horizontal máxima.
 
 
 
