@@ -14,7 +14,11 @@ I’m currently working on getting certified in these areas, as well as building
 
 ## Portfolio
 
+---
+
 ### Projects in english
+
+---
 
 ### [Exploratory data analysis from MisProfesores.com](/mpAnalysis)
 <img src="images/thumbnail3.png?raw=true"/>
@@ -26,12 +30,10 @@ I’m currently working on getting certified in these areas, as well as building
 ### [mpExtractor](/mpExtractor)
 <img src="images/thumbnail1.png?raw=true"/>
 
----
 ### [Optimización de tiro parabólico](/TiroParabolico)
 <img src="images/thumbnail2.png?raw=true"/>
 
 ---
 
----
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
