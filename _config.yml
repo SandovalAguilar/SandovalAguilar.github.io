@@ -3,6 +3,8 @@ logo: "/images/logo.png?raw=true"
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Computer science student at <a href="https://www.uanl.mx/en/">UANL</a>, and aspiring data scientist.
   <br><br>
+  Contact: ismael.sandoval.aguilar@gmail.com
+  <br><br>
   <a href="https://www.linkedin.com/in/ismael-sandoval/">View My LinkedIn Profile</a> 
 theme: jekyll-theme-minimal
 
