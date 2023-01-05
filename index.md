@@ -14,16 +14,10 @@ I’m currently working on getting certified in these areas, as well as building
 
 ## Portfolio
 
----
-
 ### Projects in english
-
----
 
 ### [Exploratory data analysis from MisProfesores.com](/mpAnalysis)
 <img src="images/thumbnail3.png?raw=true"/>
-
----
 
 ### Projects in spanish
 
