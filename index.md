@@ -16,11 +16,11 @@ I’m currently working on getting certified in these areas, as well as building
 
 ### Projects in spanish
 
-[mpExtractor](/mpExtractor)
+### [mpExtractor](/mpExtractor)
 <img src="images/thumbnail2.png?raw=true"/>
 
 ---
-[Optimización de tiro parabólico](/TiroParabolico)
+### [Optimización de tiro parabólico](/TiroParabolico)
 <img src="images/thumbnail1.png?raw=true"/>
 
 ---

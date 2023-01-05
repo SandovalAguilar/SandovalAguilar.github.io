@@ -4,6 +4,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Computer science student at <a href="https://www.uanl.mx/en/">UANL</a>, and aspiring data scientist.
   <br><br>
   <a href="https://www.linkedin.com/in/ismael-sandoval/">View My LinkedIn Profile</a> 
+  <br><br>
   
 theme: jekyll-theme-minimal
 
